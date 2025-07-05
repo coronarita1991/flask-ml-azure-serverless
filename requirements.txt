@@ -1,10 +1,8 @@
-Flask==1.0.2
-pandas==1.1.5
-scikit-learn==0.22.2
+Flask==2.1.0
+pandas==1.3.5
+scikit-learn==1.1.3
 pylint==2.6.2
-Jinja2==2.11.3
-MarkupSafe==1.1.1
-itsdangerous==1.1.0
-numpy==1.19.5
-
+Jinja2==3.0
+numpy==1.21.6
+Werkzeug==2.1.2
 
